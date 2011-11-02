@@ -35,6 +35,4 @@ switch this allows writing a binary image into a specific area with bad block
 skipping, but failing the operation if it would overrun into some other area
 you have assigned.
 
-No makefile is included at the moment, sorry.
-
 Run "flashtool" with no arguments for usage instructions.
